@@ -272,3 +272,12 @@ li a.footer {
 a:hover {
    text-decoration: none;
 }
+
+ul.images li:hover {
+   cursor: pointer;
+   background-color: #2ecc71;
+   opacity: 0.5;
+}
+img:hover{
+   background-color: #fff;
+}
